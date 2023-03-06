@@ -38,6 +38,7 @@ Totally unofficial, and un-endorsed, notes around how development teams are meet
 - promote best practice as there is no where to hide
 - less likely to take shortcuts as the code is there for everyone to see
 - knowledge transfer: teams and people change
+- offer what is produced to public usage
 
 ## Notes
 
